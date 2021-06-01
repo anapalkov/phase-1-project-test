@@ -1,0 +1,18 @@
+{
+  "music": [
+    {
+      "id": 1,
+      "artist": "The Killers",
+      "album": "Mr Brightside",
+      "album_art": "https://i1.sndcdn.com/artworks-000242900241-idaeab-t500x500.jpg",
+      "tracklist": [
+        "track 1",
+        "track 2",
+        "track 3",
+        "track 4",
+        "track 5"
+      ]
+    }
+   }
+  ]
+}
